@@ -3,5 +3,3 @@
   tasks:
     - amazon.aws.aws_caller_info:
         aws_region: us-gov-west-1
-        aws_config:
-          use_fips_endpoint: true
